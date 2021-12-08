@@ -23,9 +23,11 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ### Command Line Tools
 - [asdf](https://asdf-vm.com/) - Manage multiple runtime versions with a single CLI tool.
+- [fzf](https://github.com/junegunn/fzf) - An interactive Unix filter for command-line that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
 - [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux).
 - [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
 - [oh-my-zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command, inspired by z and autojump.
 ### Editors
 - [Fleet](https://www.jetbrains.com/fleet/) - Fast and lightweight text editor that can easily transform into an IDE.
 - [Visual Studio Code](https://code.visualstudio.com/) - Free, open source and highly customizable editor from Microsoft with first class Typescript support.
