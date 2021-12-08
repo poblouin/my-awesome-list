@@ -18,7 +18,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ## Read and Write
 - [LibreOffice](https://www.libreoffice.org/) - LibreOffice is a free and powerful office suite. Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
-- [Reeder 5](https://reederapp.com/) - Keep control of your news reading with Reeder, RSS reader and read later client in one app, now with support for iCloud syncing.
+- [Reeder 5 ](https://reederapp.com/) - Keep control of your news reading with Reeder, RSS reader and read later client in one app, now with support for iCloud syncing.
 ## Developer Tools
 
 ### Command Line Tools
@@ -47,7 +47,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 ### Productivity
 
 - [Raspberry Pi Image](https://www.raspberrypi.com/software/) - The quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi
-- [Raycast](https://www.raycast.com/) - Blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more. 
+- [Raycast ](https://www.raycast.com/) - Blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
 
 ### Password Management
 
