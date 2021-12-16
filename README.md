@@ -47,6 +47,8 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ### Ruby
 
+- [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
+- [Prettier](https://github.com/prettier/plugin-ruby) - Prettier for Ruby
 - [Rubocop Daemon](https://github.com/fohte/rubocop-daemon) - Makes RuboCop faster.
 - [Solargraph](https://solargraph.org/) - A Ruby gem that provides intellisense features through Microsoft's language server protocol.
 
