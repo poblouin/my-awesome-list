@@ -10,6 +10,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 - [Read & Write](#read-and-write)
 - [Developer Tools](#developer-tools)
   - [Command Line Tools](#command-line-tools)
+  - [Development Tools](#development-tools)
   - [Editors](#editors)
   - [IDEs](#ides)
   - [Ruby](#ruby)
@@ -34,6 +35,9 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 - [oh-my-zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command, inspired by z and autojump.
 
+### Development Tools
+
+- [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
 ### Editors
 
 - [Fleet](https://www.jetbrains.com/fleet/) - Fast and lightweight text editor that can easily transform into an IDE.
@@ -47,7 +51,6 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ### Ruby
 
-- [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
 - [Prettier](https://github.com/prettier/plugin-ruby) - Prettier for Ruby
 - [Rubocop Daemon](https://github.com/fohte/rubocop-daemon) - Makes RuboCop faster.
 - [Solargraph](https://solargraph.org/) - A Ruby gem that provides intellisense features through Microsoft's language server protocol.
