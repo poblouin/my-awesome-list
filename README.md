@@ -15,6 +15,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
   - [Privacy](#privacy)
   - [Productivity](#productivity)
   - [Password Management](#password-management)
+- [Home Automation](#home-automation)
 
 ## Read and Write
 - [LibreOffice](https://www.libreoffice.org/) - LibreOffice is a free and powerful office suite. Its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.
@@ -51,3 +52,8 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 - [Authy](https://authy.com/) - Enable 2FA for your favorite sites.
 - [Bitwarden](https://bitwarden.com/) - Open source password management tool for Desktop, mobile and browsers.
+
+## Home Automation
+
+- [Homebridge Raspberry Pi Image](https://github.com/homebridge/homebridge-raspbian-image) - Provides a free Raspbian based Raspberry Pi image with Homebridge and Homebridge Config UI X pre-installed.
+- [Hubitat C-7 Hub](https://hubitat.com/) - Experience Home Automation that is Local, Reliable, Fast, and Private.
