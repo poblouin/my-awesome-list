@@ -61,6 +61,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ### Privacy
 
+- [ProtonMail](https://protonmail.com/) - Secure, open source, encrypted email client (web and mobile).
 - [ProtonMail Bridge](https://protonmail.com/bridge/) - Enables the integration of your ProtonMail account with popular email clients, such as Microsoft Outlook, Mozilla Thunderbird, or Apple Mail
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
 - [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
