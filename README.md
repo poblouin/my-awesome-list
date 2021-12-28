@@ -38,6 +38,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ### Development Tools
 
+- [Husky](https://github.com/typicode/husky) - Husky improves your commits and more 🐶 woof!
 - [Lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for Node.js, Ruby or any other type of projects.
 ### Editors
 
