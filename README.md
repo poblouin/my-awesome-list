@@ -15,10 +15,13 @@ For some entries, you'll se an  icon, that simply means that it is only avail
   - [IDEs](#ides)
   - [Ruby](#ruby)
 - [Utilities](#utilities)
+  - [Communication](#communication)
+  - [Encryption](#encryption)
   - [Privacy](#privacy)
   - [Productivity](#productivity)
   - [Password Management](#password-management)
-- [Home Automation](#home-automation)
+- [Home](#home)
+  - [Home Automation](#home-automation)
 
 ## Read and Write
 
@@ -59,24 +62,35 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ## Utilities
 
-### Privacy
+### Communication
 
 - [ProtonMail](https://protonmail.com/) - Secure, open source, encrypted email client (web and mobile).
+- [Signal](https://www.signal.org/) - Say "hello" to a different messaging experience. An unexpected focus on privacy, combined with all of the features you expect.
+- [Telegram](https://telegram.org/) - Telegram is a messaging app with a focus on speed and security, it’s super-fast, simple and free.
+### Encryption
+
+- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
+
+### Privacy
+
 - [ProtonMail Bridge](https://protonmail.com/bridge/) - Enables the integration of your ProtonMail account with popular email clients, such as Microsoft Outlook, Mozilla Thunderbird, or Apple Mail
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html) - VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
 
 ### Productivity
 
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/) - The quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi
 - [Raycast ](https://www.raycast.com/) - Blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more.
 
-### Password Management
+### Password & 2FA Management
 
-- [Authy](https://authy.com/) - Enable 2FA for your favorite sites.
+- [Authy](https://authy.com/) - Enable 2FA for your favorite sites. (Now using Bitwarden for 2FA too, works great.)
 - [Bitwarden](https://bitwarden.com/) - Open source password management tool for Desktop, mobile and browsers.
 
-## Home Automation
+## Home
 
+- [Asus-Merlin](https://www.asuswrt-merlin.net/) - Asuswrt-Merlin is a third party alternative firmware for Asus routers, with a special emphasis on tweaks and fixes rather than radical changes or collecting as many features as possible. 
+### Home Automation
+
+- [Homebridge](https://homebridge.io/) - HomeKit support for the impatient.
 - [Homebridge Raspberry Pi Image](https://github.com/homebridge/homebridge-raspbian-image) - Provides a free Raspbian based Raspberry Pi image with Homebridge and Homebridge Config UI X pre-installed.
 - [Hubitat C-7 Hub](https://hubitat.com/) - Experience Home Automation that is Local, Reliable, Fast, and Private.
