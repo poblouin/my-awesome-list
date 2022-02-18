@@ -60,6 +60,7 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ### Ruby
 
+- [Debug](https://github.com/ruby/debug) - Provides debugging functionality to Ruby, replacement of traditional lib/debug.rb
 - [Prettier](https://github.com/prettier/plugin-ruby) - Prettier for Ruby
 - [Rubocop Daemon](https://github.com/fohte/rubocop-daemon) - Makes RuboCop faster.
 - [Solargraph](https://solargraph.org/) - A Ruby gem that provides intellisense features through Microsoft's language server protocol.
