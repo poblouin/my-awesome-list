@@ -7,21 +7,23 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 
 ## Contents
 
-- [Read & Write](#read-and-write)
-- [Developer Tools](#developer-tools)
-  - [Command Line Tools](#command-line-tools)
-  - [Development Tools](#development-tools)
-  - [Editors](#editors)
-  - [IDEs](#ides)
-  - [Ruby](#ruby)
-- [Utilities](#utilities)
-  - [Communication](#communication)
-  - [Encryption](#encryption)
-  - [Privacy](#privacy)
-  - [Productivity](#productivity)
-  - [Password Management](#password-management)
-- [Home](#home)
-  - [Home Automation](#home-automation)
+- [My Awesome List](#my-awesome-list)
+  - [Contents](#contents)
+  - [Read and Write](#read-and-write)
+  - [Developer Tools](#developer-tools)
+    - [Command Line Tools](#command-line-tools)
+    - [Development Tools](#development-tools)
+    - [Editors](#editors)
+    - [IDEs](#ides)
+    - [Ruby](#ruby)
+  - [Utilities](#utilities)
+    - [Communication](#communication)
+    - [Encryption](#encryption)
+    - [Privacy](#privacy)
+    - [Productivity](#productivity)
+    - [Password & 2FA Management](#password--2fa-management)
+  - [Home](#home)
+    - [Home Automation](#home-automation)
 
 ## Read and Write
 
@@ -37,6 +39,8 @@ For some entries, you'll se an  icon, that simply means that it is only avail
 - [Homebrew](https://brew.sh/) - The Missing Package Manager for macOS (or Linux).
 - [iTerm2](https://iterm2.com/) - iTerm2 is a replacement for Terminal and the successor to iTerm.
 - [oh-my-zsh](https://ohmyz.sh/) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like fast/unobtrusive autosuggestions for zsh.
+- [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command, inspired by z and autojump.
 
 ### Development Tools
